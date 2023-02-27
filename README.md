@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Aleksandr 👋
 
-<!--
-**omggga/omggga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full stack developer from Russia, now living in Thailand</h3>
 
-Here are some ideas to get you started:
+I’m currently improving myself in Frontend, DevOps and Backend Development, learning new features and also new frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking for a remote work opportunities to have a part time job or a contract job.
+
+
+### About Me :
+  
+- I'm making a small pet projects to solve my problems and also to help other people
+- I'm trying to keep abreast of trends in modern application development
+- Love to travel, to explore new things and new places
+
+
+[![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=omggga)](https://github.com/anuraghazra/github-readme-stats)
