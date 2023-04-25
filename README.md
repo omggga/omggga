@@ -22,6 +22,6 @@ I’m looking for a remote work opportunities to have a part time job or a contr
 
 
 Thanks for using my code!
-As a solo developer, your support means a lot. If you find my work helpful, please consider making a [donation](https://tipybit.com/colorless) to help me keep it going.
+As a solo developer, your support means a lot. If you find my work helpful, please consider making a <a href="https://tipybit.com/colorless" target="_blank">donation</a> to help me keep it going.
 
 Thank you!
