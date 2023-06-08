@@ -13,9 +13,6 @@ I’m looking for a remote work opportunities to have a part time job or a contr
 - I'm trying to keep abreast of trends in modern application development
 - Love to travel, to explore new things and new places
 
-
-[![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=omggga&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omggga&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
