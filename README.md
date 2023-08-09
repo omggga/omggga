@@ -13,10 +13,6 @@ I’m looking for a remote work opportunities to have a part time job or a contr
 - I'm trying to keep abreast of trends in modern application development
 - Love to travel, to explore new things and new places
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omggga&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 Thanks for using my code!
 As a solo developer, your support means a lot. If you find my work helpful, please consider making a <a href="https://tipybit.com/colorless" target="_blank">donation</a> to help me keep it going.
