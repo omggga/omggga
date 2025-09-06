@@ -17,5 +17,4 @@ I’m looking for a remote work opportunities to have a part time job or a contr
 Thanks for using my code!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omggga&layout=compact&langs_count=10&hide=html,css,c,c%2B%2B,perl,postscript&exclude_repo=dotfiles,old-scripts&cache_seconds=21600)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omggga&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600)
 
