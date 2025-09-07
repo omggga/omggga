@@ -1,17 +1,18 @@
 ### Hi there, I'm Aleksandr 👋
 
-<h3 align="center">Full stack developer from Russia, now living in Thailand</h3>
+**Full-stack engineer · Node.js/TypeScript · DevOps & Observability · Data pipelines**
 
-I’m currently improving myself in Frontend, DevOps and Backend Development, learning new features and also new frameworks.
+I build reliable data and back-office systems, mostly in finance.  
+Modernizing legacy stacks to **Node 22 (ESM)**, designing task runners over **MSSQL, Redis, RabbitMQ**, and instrumenting services with **OpenTelemetry, Promtail/Loki, Grafana, Jaeger**. I ship containerized deployments (**Docker/PM2**) and maintain **GitLab CI/CD** pipelines.
 
-I’m looking for a remote work opportunities to have a part time job or a contract job.
+**Current focus:** Robust backend APIs and platform reliability. XSLT3/Saxon flows, FO→PDF generation, cryptographic signing workflows, and smarter logging/alerts.
 
+**Also exploring:** AI-assisted dev (MCP, Cluade Code style tools), iOS experiments, and building **Swift (iOS) pet projects**.
 
-### About Me :
-  
-- I'm making a small pet projects to solve my problems and also to help other people
-- I'm trying to keep abreast of trends in modern application development
-- Love to travel, to explore new things and new places
+**Open to:** remote part-time or contract engagements — backend Node.js, platform/DevOps, or data ingestion pipelines. Working comfortably across EU/Asia time zones.
+
+I build small, useful pet projects to solve real problems and share them here.  
+Issues/PRs are welcome — and thanks for using my code!
 
 
 Thanks for using my code!
