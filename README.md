@@ -1,21 +1,24 @@
 ### Hi there, I'm Aleksandr 👋
 
-**Full-stack engineer · Node.js/TypeScript · DevOps & Observability · Data pipelines**
+**Backend & Platform Engineer — Node.js/TypeScript · Observability · CI/CD**
 
-I build reliable data and back-office systems, mostly in finance.  
-Modernizing legacy stacks to **Node 22 (ESM)**, designing task runners over **MSSQL, Redis, RabbitMQ**, and instrumenting services with **OpenTelemetry, Promtail/Loki, Grafana, Jaeger**. I ship containerized deployments (**Docker/PM2**) and maintain **GitLab CI/CD** pipelines.
+I build resilient data and back-office systems (finance & ops). Modernizing stacks to **Node 22 (ESM)**, designing task runners over **MSSQL · Redis · RabbitMQ**, and instrumenting services with **OpenTelemetry → Jaeger/Grafana/Loki**. I ship containerized deployments (**Docker/PM2**) and maintain **GitLab CI/CD** pipelines.
 
-**Current focus:** Robust backend APIs and platform reliability. XSLT3/Saxon flows, FO→PDF generation, cryptographic signing workflows, and smarter logging/alerts.
+#### What I'm working on
+- **signature-service** — fast PNG/SVG signature stamp generation; PDF signing workflows; smart caching & rate-limit aware pipelines.
+- **xml-xslt-transformer** — **Saxon EE (XSLT3)** → **Apache FOP 2.11** for FO→PDF; custom fonts & hyphenation; multi-instance workers with semaphores and cache TTLs.
+- **Platform reliability** — Nginx reverse proxy & internal DNS, healthz endpoints, OTLP tracing, structured logs (Pino), alerts and dashboards.
 
-**Also exploring:** AI-assisted dev (MCP, Cluade Code style tools), iOS experiments, and building **Swift (iOS) pet projects**.
+#### Also exploring
+- **AI-assisted dev** (MCP, Claude Code-style tools).
+- **iOS (Swift/SwiftUI)** — *Japan Eats*, a multilingual Japanese food guide (offline data, map deep links, “Ask the chef” presets).
 
-**Open to:** remote part-time or contract engagements — backend Node.js, platform/DevOps, or data ingestion pipelines. Working comfortably across EU/Asia time zones.
+#### I work with
+Node 22 (ESM) · TypeScript 5+ · Pino · Undici · MSSQL · Redis · RabbitMQ · Docker · GitLab Runner · Nginx/Traefik · OpenTelemetry (OTLP) · Jaeger · Grafana/Promtail/Loki · Saxon EE · Apache FOP · PDF/FO · Swift/SwiftUI · Xcode.
 
-I build small, useful pet projects to solve real problems and share them here.  
-Issues/PRs are welcome — and thanks for using my code!
+#### Open to
+Remote part-time/contract: backend Node.js, PDF/FO pipelines, observability, CI/CD, or data ingestion. Time zones: EU/Asia friendly.
 
-
-Thanks for using my code!
+Issues/PRs welcome — thanks for using my code!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omggga&layout=compact&langs_count=10&hide=html,css,c,c%2B%2B,perl,postscript&exclude_repo=dotfiles,old-scripts&cache_seconds=21600)
-
