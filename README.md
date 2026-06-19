@@ -1,31 +1,54 @@
-### Hi there, I'm Aleksandr 👋
+### Hi, I'm Aleksandr 👋
 
-**Backend & Platform Engineer — Node.js/TypeScript · Observability · CI/CD**
+**Backend & Platform Engineer — Node.js/TypeScript · C#/.NET · Observability · CI/CD · Document automation**
 
-I build resilient data and back-office systems (finance & ops). Modernizing stacks to Node 22 (ESM), designing task runners over MSSQL · Redis · RabbitMQ, and instrumenting services with OpenTelemetry → Jaeger/Grafana/Loki. I ship containerized deployments (Docker/PM2) and maintain GitLab CI/CD pipelines.
+I build backend and platform systems for document-heavy and integration-heavy workflows: XML/XSLT → PDF pipelines, digital signatures, task runners, internal APIs, observability, CI/CD, and production reliability.
+
+My main production stack is Node.js/TypeScript, but I also work with C#/.NET for backend services and tooling, and Swift/SwiftUI for iOS apps and experiments.
+
+#### Systems I build
+
+- **Document pipelines** — XML/XSLT3 transformations, Apache FOP rendering, PDF/FO workflows, custom fonts, hyphenation, caching, and worker orchestration.
+- **Digital signature workflows** — CryptoPro/CAdES/CMS helpers, PKCS#7/PKCS#12 flows, detached/attached signatures, PDF signing, and rate-limit aware processing.
+- **Task runners & integrations** — resilient background workers over MSSQL, Redis, RabbitMQ, and external APIs.
+- **Platform reliability** — containerized services, reverse proxies, internal DNS, health checks, structured logs, tracing, dashboards, and alerts.
 
 #### What I'm working on
-- **signature-service** — fast PNG/SVG signature stamp generation; PDF signing workflows; smart caching & rate-limit aware pipelines.
-- **xml-xslt-transformer** — Saxon EE (XSLT3) → Apache FOP 2.11 for FO→PDF; custom fonts & hyphenation; multi-instance workers with semaphores and cache TTLs.
-- **Platform reliability** — Nginx/Traefik reverse proxy & internal DNS, healthz endpoints, OTLP tracing, structured logs (Pino), alerts and dashboards.
+
+- **signature-service** — fast PNG/SVG signature stamp generation, PDF signing workflows, smart caching, and production-friendly rate limiting.
+- **xml-xslt-transformer** — Saxon EE XSLT3 → Apache FOP 2.11 for FO→PDF, custom fonts and hyphenation, multi-instance workers, semaphores, and cache TTLs.
+- **Platform tooling** — Nginx/Traefik, internal DNS, healthz endpoints, OTLP tracing, Pino logs, Grafana/Loki dashboards, and GitLab CI/CD pipelines.
 
 #### Selected projects
-- **mtls** — practical mTLS lab: Nginx/Traefik configs, client cert auth, OpenSSL/CFSSL tooling, and Node/Undici test snippets.  
+
+- **mtls** — production-oriented mTLS playground with Nginx/Traefik configs, client certificate auth, OpenSSL/CFSSL tooling, and Node/Undici test clients.  
   https://github.com/omggga/mtls
-- **crypto_pro_api** — Node/TS helpers for CryptoPro (CAdES/CMS): cert discovery, detached/attached signatures, PKCS#7/PKCS#12 flows.  
+- **crypto_pro_api** — Node/TypeScript helpers for CryptoPro CAdES/CMS: certificate discovery, detached/attached signatures, and PKCS#7/PKCS#12 flows.  
   https://github.com/omggga/crypto_pro_api
-- **jaeger-to-mattermost** — lightweight bridge that surfaces trace errors/latency signals from Jaeger into Mattermost via webhooks.  
+- **jaeger-to-mattermost** — lightweight bridge that surfaces trace errors and latency signals from Jaeger into Mattermost via webhooks.  
   https://github.com/omggga/jaeger-to-mattermost
 
 #### Also exploring
-- **AI-assisted dev** (MCP, Claude Code-style tools).
-- **iOS (Swift/SwiftUI)** — *Japan Eats*, a multilingual Japanese food guide (offline data, map deep links, “Ask the chef” presets).
+
+- **AI-assisted development** — Codex/Claude Code-style workflows, MCP tools, automation agents, and developer tooling.
+- **iOS with Swift/SwiftUI** — multilingual apps, offline data, map deep links, and practical mobile UX.
+- **C#/.NET** — backend services, integration tooling, tests, and cross-stack maintenance.
 
 #### I work with
-Node 22 (ESM) · TypeScript 5+ · Pino · Undici · MSSQL · Redis · RabbitMQ · Docker (BuildKit) · PM2 · GitLab Runner (shell) · Nginx/Traefik · mTLS · OpenSSL/CFSSL · OpenTelemetry (OTLP) · Jaeger · Grafana/Promtail/Loki · CryptoPro (CAdES/CMS, PKCS#7/12) · Saxon EE · Apache FOP · PDF/FO · Swift/SwiftUI · Xcode.
+
+**Backend:** Node.js 22, TypeScript 5+, C#/.NET, MSSQL, Redis, RabbitMQ, Pino, Undici  
+**Documents & signing:** XML, XSLT3, Saxon EE, Apache FOP, PDF/FO, CryptoPro, CAdES/CMS, PKCS#7/12  
+**Platform:** Docker, BuildKit, PM2, GitLab Runner, GitLab CI/CD, Nginx, Traefik, Linux  
+**Observability:** OpenTelemetry, OTLP, Jaeger, Grafana, Loki, Promtail, structured logging  
+**Security & networking:** mTLS, OpenSSL, CFSSL, client certificates, reverse proxies, internal DNS  
+**Mobile & Apple:** Swift, SwiftUI, Xcode  
+**AI/tooling:** MCP, AI-assisted development, automation scripts, CI helpers
 
 #### Open to
-Remote part-time/contract: backend Node.js, PDF/FO pipelines, observability, CI/CD, or data ingestion. Time zones: EU/Asia friendly.
+
+Remote part-time/contract work where the problem involves backend systems, document/PDF automation, digital signatures, observability, CI/CD, production debugging, or integration-heavy workflows.
+
+Time zones: EU/Asia friendly.
 
 Issues/PRs welcome — thanks for using my code!
 
